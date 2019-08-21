@@ -12,3 +12,5 @@ def link
   navi = "It's Dangerous To Go Alone! Take This."
   puts navi
 end
+
+def any_phrase
