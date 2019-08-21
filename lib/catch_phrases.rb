@@ -9,4 +9,6 @@ def toadstool
 end
 
 def link
-  "It's Dangerous To Go Alone! Take This."
+  navi = "It's Dangerous To Go Alone! Take This."
+  puts navi
+end
